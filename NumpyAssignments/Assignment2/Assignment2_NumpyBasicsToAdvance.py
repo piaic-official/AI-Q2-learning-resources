@@ -27,7 +27,7 @@ def function1():
     # dimension should be 6row 2 columns  
     # and assign this array values in x values in x variable
     # Hint: you can use arange and reshape numpy methods  
-    x =  np.arange(1,13).reshape((6,2)) 
+    x =  # Write your code here 
 
     return x
     """
@@ -48,7 +48,7 @@ def function2():
     #array value should be satart from 10 and end with 36 (both included)
     # Hint: dtype, reshape 
     
-    x = np.arange(1,28,dtype=np.float64).reshape((3,3,3))     #wrtie your code here
+    x =     #wrtie your code here
 
 
     return x
