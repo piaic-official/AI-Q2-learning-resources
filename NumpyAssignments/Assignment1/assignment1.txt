@@ -1,0 +1,5 @@
+https://numpy.org/doc/stable/user/quickstart.html
+https://www.machinelearningplus.com/python/101-numpy-exercises-python/
+
+
+implentation of any 50 numpy methods or attribute codes in jupyter notebook
