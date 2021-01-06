@@ -1,7 +1,9 @@
 import numpy as np
 # for image reading
 import matplotlib.pylab as plt
-#import matplotlib.image
+import matplotlib.image
+import numpyarray as arr
+
 
 def plti(im, h=8, **kwargs):
     """
@@ -25,3 +27,4 @@ def main():
     print( im.shape )
     
 main()
+arr.main()
