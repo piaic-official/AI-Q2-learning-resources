@@ -1,3 +1,6 @@
+https://piaic-aic.slack.com/archives/CHQ9UCUUQ/p1609919354002700
+
+
 #Important Information for PIAIC AI-Q2. 
 our Announcement Chanel is #announcements. ( you can not reply this channel). Please pin this channel for our future annoucement related to AI -Q2
 
