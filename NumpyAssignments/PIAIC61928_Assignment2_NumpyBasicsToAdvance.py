@@ -225,7 +225,7 @@ def function14():
     # Hint use split method
     
     
-    arr = np.arange(10, 34, 1).reshape(4,2,-1) #write reshape code
+    arr = np.arange(10, 34, 1).reshape(4,2,3) #write reshape code
     ans = np.split(arr,4,axis=0)#write your code here
   
     return ans
@@ -302,6 +302,7 @@ def function18():
     piaic = np.arange(100)
     students = np.array([5,20,50,200,301,7001])
     x = len(np.intersect1d(piaic,students))# Write you code Here
+
     return x
 
     #Expected output: 3
