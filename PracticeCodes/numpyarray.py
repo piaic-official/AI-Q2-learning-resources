@@ -1,6 +1,7 @@
 import numpy as np
 
 def main():
+    pointer = 2
     ndarray = np.array (
                     [
                        [ [111, 112, 113, 114 ], [121, 122, 123, 124] , [131, 132, 133, 134] ],
@@ -9,8 +10,9 @@ def main():
                        [  [411, 412, 413, 414], [421, 422, 423, 424], [431, 432, 433, 434] ]
                     ]
                    )
-
+    print(ndarray[0])
     return ndarray
 
-if __name__ == "__main__":
-    main()
+#if __name__ == "__main__":
+main()
+print("abc")
